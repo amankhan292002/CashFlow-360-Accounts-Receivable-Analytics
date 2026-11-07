@@ -33,6 +33,23 @@ This project addresses these analytical requirements by organizing invoice and p
 | Microsoft Power BI | Dashboard development and visualization |
 | SQL | Data analysis, aggregations and business queries |
 
+## Dataset
+
+The project uses a synthetically generated dataset for portfolio and analytical purposes. It contains four CSV files:
+
+| File | Description |
+|---|---|
+| `customers.csv` | Customer details and segments |
+| `invoices.csv` | Invoice and billing records |
+| `payments.csv` | Customer payment transactions |
+| `regions.csv` | Regional information |
+
+- **Total Records:** 99,010
+- **Format:** CSV files bundled in a ZIP archive
+- **Dataset:** [Download CashFlow360 Dataset](CashFlow360_Dataset_Fixed.zip)
+
+*Note: This is synthetic data and does not contain real customer or company information.*
+
 ## 5. Dashboard Preview
 
 The Power BI dashboard contains three interactive report pages.
